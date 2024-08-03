@@ -1,0 +1,14 @@
+[
+    {
+        "model": "gpt-3.5-turbo",
+        "aapi_key": "sk-enter-your-api_key-here"
+    },
+    {
+        "model": "gpt-4",
+        "aapi_key": "sk-enter-your-api_key-here"
+    },
+    {
+        "model": "gpt-4o",
+        "aapi_key": "sk-enter-your-api_key-here"
+    }
+]
